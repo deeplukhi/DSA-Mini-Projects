@@ -60,8 +60,8 @@ Enter the destination point (x y): 9 9
 ## 🛠 How to Run
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/deeplukhi/Maze_Solver.git
-   cd Maze_Solver
+   git clone https://github.com/deeplukhi/DSA-Mini-Projects.git
+   cd DSA-Mini-Projects/Maze-solver
    ```
 2. **Compile the C++ Program**:
    ```sh
